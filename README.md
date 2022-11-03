@@ -1,7 +1,7 @@
 # Hello 
 
 <h1 align="center">Salut 👋, je suis Adilino</h1>
-<h3 align="center">Un développeur Maroucan passionné</h3>
+<h3 align="center">Un développeur passionné</h3>
 
 - ⚡ Fun fact **Passionné et motivé**
 
